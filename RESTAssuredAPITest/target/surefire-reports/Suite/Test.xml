@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="sambit-PC" name="com.apitest.assignment.AcceptanceCriteria1" tests="3" failures="0" timestamp="2 Feb 2019 19:21:21 GMT" time="9.224" errors="0">
+  <testcase name="APIAssignmentAcceptanceCriteria1" time="4.765" classname="com.apitest.assignment.AcceptanceCriteria1"/>
+  <testcase name="APIAssignmentAcceptanceCriteria2" time="1.893" classname="com.apitest.assignment.AcceptanceCriteria2"/>
+  <testcase name="APIAssignmentAcceptanceCriteria3" time="1.907" classname="com.apitest.assignment.AcceptanceCriteria3"/>
+</testsuite>

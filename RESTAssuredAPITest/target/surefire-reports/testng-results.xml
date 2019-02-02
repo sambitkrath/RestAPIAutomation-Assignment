@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="9224" started-at="2019-02-02T11:21:12Z" finished-at="2019-02-02T11:21:21Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="9224" started-at="2019-02-02T11:21:12Z" finished-at="2019-02-02T11:21:21Z">
+      <class name="com.apitest.assignment.AcceptanceCriteria3">
+        <test-method status="PASS" signature="APIAssignmentAcceptanceCriteria3()" name="APIAssignmentAcceptanceCriteria3" duration-ms="1907" started-at="2019-02-02T11:21:19Z" finished-at="2019-02-02T11:21:21Z">
+        </test-method>
+      </class>
+      <class name="com.apitest.assignment.AcceptanceCriteria2">
+        <test-method status="PASS" signature="APIAssignmentAcceptanceCriteria2()" name="APIAssignmentAcceptanceCriteria2" duration-ms="1893" started-at="2019-02-02T11:21:17Z" finished-at="2019-02-02T11:21:19Z">
+        </test-method>
+      </class>
+      <class name="com.apitest.assignment.AcceptanceCriteria1">
+        <test-method status="PASS" signature="init()" name="init" is-config="true" duration-ms="656" started-at="2019-02-02T11:21:12Z" finished-at="2019-02-02T11:21:13Z">
+        </test-method>
+        <test-method status="PASS" signature="APIAssignmentAcceptanceCriteria1()" name="APIAssignmentAcceptanceCriteria1" duration-ms="4765" started-at="2019-02-02T11:21:13Z" finished-at="2019-02-02T11:21:17Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
